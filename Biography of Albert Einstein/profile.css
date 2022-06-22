@@ -1,0 +1,56 @@
+<body>{
+	background color: #f4f4f2;
+}
+#container{
+	width: 900px;
+	margin-left : auto;
+	margin-right: auto;
+	background color: white;
+	border: 2px solid;
+}
+header{
+	font-size: 50px;
+	text-align: center;
+	background: black;
+	color: white;
+}
+#body{
+	background: white;
+	font-size: 20px;
+	padding: 10px;
+}
+#profile{
+    float: left;
+    width: 30%; 
+ }
+ #profile h3{
+ 	text-align: center;
+ 	background-color: black;
+ 	color: white;
+ 	width: 250px;
+ }
+ #profile img{
+ 	margin-left: 25px;
+ 	border: 3px solid black;
+ }
+ #bio{
+ 	padding: 10px;
+ 	float: right;
+ 	width: 65%;
+ }
+ footer{
+ 	clear: both;
+ 	background-color: black;
+ 	color: white;
+ 	text-align: right;
+ }
+p{
+	text-indent: 30px;
+}
+#details{
+	float: right;
+    width: 30%; 
+ 	padding: 10px;
+    width: 65%;
+    text-align: right;
+}
